@@ -1,0 +1,14 @@
+[
+    {
+        "package": "jrrosell",
+        "url": "https://github.com/jrosell/jrrosell"
+    },
+    {
+        "package": "ambhtmx",
+        "url": "https://github.com/jrosell/ambhtmx"
+    },
+    {
+        "package": "rreversegeocoder",
+        "url": "https://github.com/jrosell/rreversegeocoder"
+    }
+]
