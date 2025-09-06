@@ -10,5 +10,9 @@
     {
         "package": "rreversegeocoder",
         "url": "https://github.com/jrosell/rreversegeocoder"
+    },
+        {
+        "package": "barn",
+        "url": "https://github.com/jrosell/barn"
     }
 ]
