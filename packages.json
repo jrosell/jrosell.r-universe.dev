@@ -11,7 +11,11 @@
         "package": "rreversegeocoder",
         "url": "https://github.com/jrosell/rreversegeocoder"
     },
-        {
+    {
+        "package": "gtakeout",
+        "url": "https://github.com/jrosell/gtakeout"
+    },
+    {
         "package": "barn",
         "url": "https://github.com/jrosell/barn"
     }
